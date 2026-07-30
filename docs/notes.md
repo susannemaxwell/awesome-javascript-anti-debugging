@@ -61,3 +61,4 @@ Notes and usage details for awesome-javascript-anti-debugging.
 - add a note about the defaults
 - fix a small wording issue
 - clarify the setup steps
+- clarify the setup steps
